@@ -1,0 +1,26 @@
+{
+  "name": "toastnz/cms-dev-tools",
+  "description": "Silverstripe cms helpful dev tools",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "developer tools",
+    "CMS"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Hadlee Lineha,",
+      "homepage": "http://toast.co.nz/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*",
+    "bringyourownideas/silverstripe-maintenance": "^2.3.0",
+    "thisisbd/silverstripe-maintenance-mode": "^v2.0.0-beta.1",
+    "isobar-nz/web-console": "^2.0.1",
+    "silverstripe/crontask": "^2.1.3",
+    "phptek/sentry": "^3.0.1"
+  }
+}
